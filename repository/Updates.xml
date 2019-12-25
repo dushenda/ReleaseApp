@@ -12,9 +12,9 @@
   <UpdateFile OS="Any" UncompressedSize="125" CompressedSize="540"/>
   <DownloadableArchives>bin.7z,doc.7z,etc.7z</DownloadableArchives>
   <Licenses>
-   <License file="cc0.txt" name="Creative Commons (CC0 1.0)"/>
-   <License file="gpl3.txt" name="GNU GENERAL PUBLIC LICENSE Version 3"/>
+   <License name="Creative Commons (CC0 1.0)" file="cc0.txt"/>
+   <License name="GNU GENERAL PUBLIC LICENSE Version 3" file="gpl3.txt"/>
   </Licenses>
-  <SHA1>db0aefec725f0ec54c28f4a7e98f10ead161a18c</SHA1>
+  <SHA1>1565d08ffda301af226530689b22a5661b8785a5</SHA1>
  </PackageUpdate>
 </Updates>
