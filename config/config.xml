@@ -10,9 +10,8 @@
        <Repository>
                <Url>https://github.com/dushenda/ReleaseApp/tree/master/repository</Url>
                <Enabled>1</Enabled>
-               <!-- <Enabled>1</Enabled>
-               <Username>user</Username>
-               <Password>password</Password> -->
+               <Username>dushenda@outlook.com</Username>
+               <Password>caotuziqe112400</Password>
                <DisplayName>在线更新安装</DisplayName>
        </Repository>
   </RemoteRepositories>
