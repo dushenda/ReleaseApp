@@ -8,7 +8,8 @@
     <TargetDir>@HomeDir@/IfwExamples/licenseagreement</TargetDir>
       <RemoteRepositories>
        <Repository>
-               <Url>https://raw.githubusercontent.com/dushenda/ReleaseApp/master/packages/</Url>
+               <Url>https://github.com/dushenda/ReleaseApp/tree/master/repository</Url>
+               <Enabled>1</Enabled>
                <!-- <Enabled>1</Enabled>
                <Username>user</Username>
                <Password>password</Password> -->
