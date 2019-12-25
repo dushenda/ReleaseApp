@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>科研计算小软件</Name>
+    <Version>1.0.0</Version>
+    <Title>科研计算小软件</Title>
+    <Publisher>@KLOCC</Publisher>
+    <StartMenuDir>calApp</StartMenuDir>
+    <TargetDir>@HomeDir@/IfwExamples/licenseagreement</TargetDir>
+</Installer>
