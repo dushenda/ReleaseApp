@@ -8,7 +8,7 @@
     <TargetDir>@HomeDir@/IfwExamples/licenseagreement</TargetDir>
       <RemoteRepositories>
        <Repository>
-               <Url>https://raw.githubusercontent.com/dushenda/ReleaseApp/master/repository/Updates.xml</Url>
+               <Url>https://raw.githubusercontent.com/dushenda/ReleaseApp/master/repository/</Url>
                <Enabled>1</Enabled>
                <DisplayName>在线更新安装</DisplayName>
        </Repository>
