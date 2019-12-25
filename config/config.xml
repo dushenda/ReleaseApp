@@ -10,8 +10,6 @@
        <Repository>
                <Url>https://raw.githubusercontent.com/dushenda/ReleaseApp/master/repository/</Url>
                <Enabled>1</Enabled>
-               <Username>dushenda@outlook.com</Username>
-               <Password>caotuziqe112400</Password>
                <DisplayName>在线更新安装</DisplayName>
        </Repository>
   </RemoteRepositories>
