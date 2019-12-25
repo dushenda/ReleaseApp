@@ -9,12 +9,12 @@
   <ReleaseDate>2019-12-25</ReleaseDate>
   <Version>1.0.0</Version>
   <Default>true</Default>
-  <UpdateFile OS="Any" UncompressedSize="125" CompressedSize="540"/>
+  <UpdateFile UncompressedSize="125" CompressedSize="540" OS="Any"/>
   <DownloadableArchives>bin.7z,doc.7z,etc.7z</DownloadableArchives>
   <Licenses>
    <License name="Creative Commons (CC0 1.0)" file="cc0.txt"/>
    <License name="GNU GENERAL PUBLIC LICENSE Version 3" file="gpl3.txt"/>
   </Licenses>
-  <SHA1>1565d08ffda301af226530689b22a5661b8785a5</SHA1>
+  <SHA1>8f0656f7bfd5ccb27d6bb7b46f532ea81d75ef26</SHA1>
  </PackageUpdate>
 </Updates>
