@@ -3,7 +3,7 @@
     <DisplayName>科研计算小软件 (requires license agreement)</DisplayName>
     <Description>安装使用该软件请先同意该条款</Description>
     <ReleaseDate>2019-11-11</ReleaseDate>
-    <Version>1.0.0-1</Version>
+    <Version>2.0.0-1</Version>
     <Default>true</Default>
     <Licenses>
         <License name="Creative Commons (CC0 1.0)" file="cc0.txt"/>
